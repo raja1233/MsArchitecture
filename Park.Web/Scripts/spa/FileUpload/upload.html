@@ -1,0 +1,41 @@
+﻿ <!-- Content Wrapper. Contains page content -->
+<div class="content-wrapper">
+    <!-- Content Header (Page header) -->
+    <section class="content-header">
+        <h1> Page Header <small>Optional description</small> </h1>
+        <ol class="breadcrumb">
+            <li class="active"><a href="#/"><i class="fa fa-dashboard"></i> Dashboard</a></li>
+            <li>Here</li>
+        </ol>
+    </section>
+
+    <!-- Main content -->
+    <section class="content">
+
+        <div class="row">
+            This is an example
+            <div class="col-xs-3">
+                <div class="text-center">
+                    <img ng-src="../../Content/images/movies/unknown.jpg" class="avatar img-responsive" alt="avatar">
+                    <h6>Add photo...</h6>
+                    <input type="file" ng-file-select="uploadFiles($files)">
+                </div>
+            </div>
+            <form class="form-horizontal" role="form" novalidate ng-submit="UploadExcel()">
+                <input type="submit" class="btn btn-primary" value="Upload Excel" />
+            </form>
+        </div>
+        <!-- Your Page Content Here -->
+        <div class="row">
+            <input type="file" id="file" name="file" multiple
+                   onchange="angular.element(this).scope().getFileDetails(this)" />
+
+            <input type="button" ng-click="uploadImage()" value="Upload" />
+
+            <!--ADD A PROGRESS BAR ELEMENT.-->
+            <p><progress id="pro" value="0"></progress></p>
+        </div>
+    </section>
+    <!-- /.content -->
+</div>
+<!-- /.content-wrapper --> 

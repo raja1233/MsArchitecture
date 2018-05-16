@@ -1,0 +1,140 @@
+﻿ <!-- Content Wrapper. Contains page content -->
+<div class="content-wrapper">
+    <!-- Content Header (Page header) -->
+    <section class="content-header">
+        <h1> Page Header <small>Optional description</small> </h1>
+        <ol class="breadcrumb">
+            <li class="active"><a href="#"><i class="fa fa-dashboard"></i> Dashboard</a></li>
+            <li>Here</li>
+        </ol>
+    </section>
+
+    <!-- Main content -->
+    <section class="content">
+
+        <form role="form" novalidate angular-validator name="addCustomerForm" angular-validator-submit="AddCustomer((addCustomerForm.$dirty))">
+            <div class="panel panel-primary">
+                <div class="panel-heading">
+                    Create
+                    <div class="pull-right panelaHeading"><a href="#/Index"><i class="fa fa-plus-square"></i> Index</a></div>
+                </div>
+                <div class="panel-body">
+
+
+                    <div class="modal-body">
+                        <div class="row">
+                            <div class="col-md-3">
+                                <div class="text-center">
+                                    <img ng-src="{{defaultpath}}"
+                                         class="avatar img-responsive" alt="avatar">
+                                    <h6>Add photo...</h6>
+                                    <input type="file" ng-file-select="uploadFiles($files)">
+                                </div>
+                            </div>
+                            <div class="col-md-1"></div>
+                            <div class="col-md-8">
+                                <div class="form-group">
+                                    <label for="name" class="col-sm-2 control-label">
+                                        Name
+                                    </label>
+                                    <div class="col-sm-10">
+                                        <input autocomplete="off" type="text" kendo-masked-text-box class="form-control" ng-model="newUser.Name" name="userName" id="userName" placeholder="Name"
+                                               validate-on="blur" required>
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <label for="mobile" class="col-sm-2 control-label">
+                                        Phone
+                                    </label>
+                                    <div class="col-sm-10">
+                                        <input autocomplete="off" type="text" kendo-masked-text-box k-mask="'(999) 000-0000'" class="form-control" ng-model="newUser.Phone" name="Phone" id="Phone" placeholder="Phone"
+                                               validate-on="blur" required>
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <label for="email" class="col-sm-2 control-label">
+                                        Email
+                                    </label>
+                                    <div class="col-sm-10">
+                                        <input autocomplete="off" type="email" kendo-masked-text-box class="form-control" ng-model="newUser.Email" name="Email" id="Email" placeholder="Email"
+                                               validate-on="blur" required>
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <label for="Country" class="col-sm-2 control-label">
+                                        Country
+                                    </label>
+                                    <div class="col-sm-10">
+                                        <select required kendo-combo-box
+                                                k-placeholder="'-- Select Country --'"
+                                                k-data-text-field="'CountryName'"
+                                                k-data-value-field="'ID'"
+                                                k-filter="'contains'"
+                                                k-auto-bind="false"
+                                                k-min-length="3"
+                                                k-data-source="countrylist"
+                                                ng-model="newUser.Country"
+                                                ng-change="getStateList(newUser.Country)" id="country"
+                                                style="width: 100%"></select>
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <label for="State" class="col-sm-2 control-label">
+                                        State
+                                    </label>
+                                    <div class="col-sm-10">
+                                        <select required kendo-combo-box
+                                                k-placeholder="'-- Select State --'"
+                                                k-data-text-field="'StateName'"
+                                                k-data-value-field="'ID'"
+                                                k-filter="'contains'"
+                                                k-auto-bind="false"
+                                                k-min-length="3"
+                                                k-data-source="statelist"
+                                                ng-model="newUser.State"
+                                                ng-change="getCityList(newUser.State)" ng-disabled="!newUser.Country"
+                                                style="width: 100%"></select>
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <label for="City" class="col-sm-2 control-label">
+                                        City
+                                    </label>
+                                    <div class="col-sm-10">
+                                        <select required kendo-combo-box
+                                                k-placeholder="'-- Select City --'"
+                                                k-data-text-field="'CityName'"
+                                                k-data-value-field="'ID'"
+                                                k-filter="'contains'"
+                                                k-auto-bind="false"
+                                                k-min-length="3"
+                                                k-data-source="citylist"
+                                                ng-model="newUser.City"
+                                                ng-disabled="!newUser.State"
+                                                style="width: 100%"></select>
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <label for="password" class="col-sm-2 control-label">
+                                        Date of Birth
+                                    </label>
+                                    <div class="col-sm-10">
+                                        <input autocomplete="off" type="text" kendo-date-picker class="form-control" ng-model="newUser.DOB" name="DOB" id="DOB" placeholder="Date of Birth"
+                                               validate-on="blur" required>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="panel-footer clearfix">
+                    <div class="pull-right">
+                        <button type="submit" class="btn btn-primary">Create</button>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </section> 
+</div> 

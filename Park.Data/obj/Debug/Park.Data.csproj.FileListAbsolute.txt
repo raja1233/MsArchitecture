@@ -1,0 +1,200 @@
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Data\bin\Debug\Park.Data.dll.config
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Data\bin\Debug\Park.Data.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Data\bin\Debug\Park.Data.pdb
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Data\bin\Debug\EntityFramework.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Data\bin\Debug\FluentValidation.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Data\bin\Debug\Microsoft.CSharp.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Data\bin\Debug\Park.Entities.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Data\bin\Debug\System.ComponentModel.DataAnnotations.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Data\bin\Debug\System.Data.DataSetExtensions.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Data\bin\Debug\System.Data.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Data\bin\Debug\System.Data.Entity.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Data\bin\Debug\System.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Data\bin\Debug\System.Xml.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Data\bin\Debug\System.Xml.Linq.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Data\bin\Debug\Park.Entities.pdb
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Data\bin\Debug\EntityFramework.xml
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Data\bin\Debug\FluentValidation.pdb
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Data\bin\Debug\FluentValidation.xml
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Data\bin\Debug\cs\FluentValidation.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Data\bin\Debug\da\FluentValidation.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Data\bin\Debug\de\FluentValidation.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Data\bin\Debug\es\FluentValidation.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Data\bin\Debug\fa\FluentValidation.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Data\bin\Debug\fi\FluentValidation.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Data\bin\Debug\fr\FluentValidation.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Data\bin\Debug\it\FluentValidation.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Data\bin\Debug\ko\FluentValidation.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Data\bin\Debug\mk\FluentValidation.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Data\bin\Debug\nl\FluentValidation.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Data\bin\Debug\pl\FluentValidation.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Data\bin\Debug\pt\FluentValidation.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Data\bin\Debug\ru\FluentValidation.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Data\bin\Debug\sv\FluentValidation.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Data\bin\Debug\tr\FluentValidation.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Data\bin\Debug\zh-CN\FluentValidation.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Data\obj\Debug\Park.Data.csprojResolveAssemblyReference.cache
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Data\obj\Debug\Park.Data.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Data\obj\Debug\Park.Data.pdb
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Data\bin\Debug\Park.Data.dll.config
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Data\bin\Debug\Park.Data.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Data\bin\Debug\Park.Data.pdb
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Data\bin\Debug\EntityFramework.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Data\bin\Debug\FluentValidation.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Data\bin\Debug\Microsoft.CSharp.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Data\bin\Debug\Park.Entities.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Data\bin\Debug\System.ComponentModel.DataAnnotations.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Data\bin\Debug\System.Data.DataSetExtensions.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Data\bin\Debug\System.Data.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Data\bin\Debug\System.Data.Entity.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Data\bin\Debug\System.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Data\bin\Debug\System.Xml.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Data\bin\Debug\System.Xml.Linq.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Data\bin\Debug\Park.Entities.pdb
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Data\bin\Debug\EntityFramework.xml
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Data\bin\Debug\FluentValidation.pdb
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Data\bin\Debug\FluentValidation.xml
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Data\bin\Debug\cs\FluentValidation.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Data\bin\Debug\da\FluentValidation.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Data\bin\Debug\de\FluentValidation.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Data\bin\Debug\es\FluentValidation.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Data\bin\Debug\fa\FluentValidation.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Data\bin\Debug\fi\FluentValidation.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Data\bin\Debug\fr\FluentValidation.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Data\bin\Debug\it\FluentValidation.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Data\bin\Debug\ko\FluentValidation.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Data\bin\Debug\mk\FluentValidation.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Data\bin\Debug\nl\FluentValidation.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Data\bin\Debug\pl\FluentValidation.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Data\bin\Debug\pt\FluentValidation.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Data\bin\Debug\ru\FluentValidation.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Data\bin\Debug\sv\FluentValidation.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Data\bin\Debug\tr\FluentValidation.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Data\bin\Debug\zh-CN\FluentValidation.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Data\obj\Debug\Park.Data.csprojResolveAssemblyReference.cache
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Data\obj\Debug\Park.Data.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Data\obj\Debug\Park.Data.pdb
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Data\bin\Debug\Park.Data.dll.config
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Data\bin\Debug\Park.Data.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Data\bin\Debug\Park.Data.pdb
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Data\bin\Debug\EntityFramework.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Data\bin\Debug\FluentValidation.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Data\bin\Debug\Microsoft.CSharp.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Data\bin\Debug\Park.Entities.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Data\bin\Debug\System.ComponentModel.DataAnnotations.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Data\bin\Debug\System.Data.DataSetExtensions.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Data\bin\Debug\System.Data.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Data\bin\Debug\System.Data.Entity.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Data\bin\Debug\System.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Data\bin\Debug\System.Xml.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Data\bin\Debug\System.Xml.Linq.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Data\bin\Debug\Park.Entities.pdb
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Data\bin\Debug\EntityFramework.xml
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Data\bin\Debug\FluentValidation.pdb
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Data\bin\Debug\FluentValidation.xml
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Data\bin\Debug\cs\FluentValidation.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Data\bin\Debug\da\FluentValidation.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Data\bin\Debug\de\FluentValidation.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Data\bin\Debug\es\FluentValidation.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Data\bin\Debug\fa\FluentValidation.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Data\bin\Debug\fi\FluentValidation.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Data\bin\Debug\fr\FluentValidation.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Data\bin\Debug\it\FluentValidation.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Data\bin\Debug\ko\FluentValidation.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Data\bin\Debug\mk\FluentValidation.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Data\bin\Debug\nl\FluentValidation.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Data\bin\Debug\pl\FluentValidation.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Data\bin\Debug\pt\FluentValidation.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Data\bin\Debug\ru\FluentValidation.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Data\bin\Debug\sv\FluentValidation.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Data\bin\Debug\tr\FluentValidation.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Data\bin\Debug\zh-CN\FluentValidation.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Data\obj\Debug\Park.Data.csprojResolveAssemblyReference.cache
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Data\obj\Debug\Park.Data.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Data\obj\Debug\Park.Data.pdb
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\Park.Data.dll.config
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\Park.Data.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\Park.Data.pdb
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\EntityFramework.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\FluentValidation.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\Microsoft.CSharp.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\Park.Entities.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\System.ComponentModel.DataAnnotations.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\System.Data.DataSetExtensions.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\System.Data.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\System.Data.Entity.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\System.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\System.Xml.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\System.Xml.Linq.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\Park.Entities.pdb
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\EntityFramework.xml
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\FluentValidation.pdb
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\FluentValidation.xml
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\cs\FluentValidation.resources.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\da\FluentValidation.resources.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\de\FluentValidation.resources.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\es\FluentValidation.resources.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\fa\FluentValidation.resources.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\fi\FluentValidation.resources.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\fr\FluentValidation.resources.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\it\FluentValidation.resources.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\ko\FluentValidation.resources.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\mk\FluentValidation.resources.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\nl\FluentValidation.resources.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\pl\FluentValidation.resources.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\pt\FluentValidation.resources.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\ru\FluentValidation.resources.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\sv\FluentValidation.resources.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\tr\FluentValidation.resources.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\zh-CN\FluentValidation.resources.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Data\obj\Debug\Park.Data.csprojResolveAssemblyReference.cache
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Data\obj\Debug\Park.Data.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Data\obj\Debug\Park.Data.pdb
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\Park.Data.dll.config
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\Park.Data.dll
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\Park.Data.pdb
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\EntityFramework.dll
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\FluentValidation.dll
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\Microsoft.CSharp.dll
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\Park.Entities.dll
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\System.ComponentModel.DataAnnotations.dll
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\System.Data.DataSetExtensions.dll
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\System.Data.dll
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\System.Data.Entity.dll
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\System.dll
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\System.Xml.dll
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\System.Xml.Linq.dll
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\Park.Entities.pdb
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\EntityFramework.xml
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\FluentValidation.pdb
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\FluentValidation.xml
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\cs\FluentValidation.resources.dll
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\da\FluentValidation.resources.dll
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\de\FluentValidation.resources.dll
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\es\FluentValidation.resources.dll
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\fa\FluentValidation.resources.dll
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\fi\FluentValidation.resources.dll
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\fr\FluentValidation.resources.dll
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\it\FluentValidation.resources.dll
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\ko\FluentValidation.resources.dll
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\mk\FluentValidation.resources.dll
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\nl\FluentValidation.resources.dll
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\pl\FluentValidation.resources.dll
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\pt\FluentValidation.resources.dll
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\ru\FluentValidation.resources.dll
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\sv\FluentValidation.resources.dll
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\tr\FluentValidation.resources.dll
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Data\bin\Debug\zh-CN\FluentValidation.resources.dll
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Data\obj\Debug\Park.Data.csprojResolveAssemblyReference.cache
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Data\obj\Debug\Park.Data.dll
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Data\obj\Debug\Park.Data.pdb

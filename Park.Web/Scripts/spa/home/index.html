@@ -1,0 +1,69 @@
+﻿
+<div class="content-wrapper"> 
+    <section class="content-header">
+        <h1> Customer List <small> Details</small> </h1>
+        <ol class="breadcrumb">
+            <li class="active"><a href="#/"><i class="fa fa-dashboard"></i> Home</a></li>
+            <li>Customer List</li>
+        </ol>
+    </section>
+    <div class="row"><div class="pull-right panelaHeading"><a href="#/create"><i class="fa fa-plus-square"></i> Add Customer</a></div></div>
+    <section class="content">
+        <div class="panel panel-primary">
+            <div class="panel-heading">
+                Index
+                        <div class="input-group">
+                            <select kendo-drop-down-list ng-model="filterCustomersColumn">
+                                <option value="1">Name</option>
+                                <option value="2">Phone</option>
+                                <option value="3">Email</option>
+                                <option value="4">DOB</option>
+                                <option value="5">CityName</option>
+                            </select>
+                                 <input id="inputSearchCustomers" type="search" ng-model="filterCustomers" class="form-control shortInputSearch" placeholder="Filter, search customers..">
+                            <div class="input-group-btn">
+
+                                <button class="btn btn-primary" ng-click="search();"><i class="glyphicon glyphicon-search"></i></button>
+                                <button class="btn btn-primary" ng-click="clearSearch();"><i class="glyphicon glyphicon-remove-sign"></i></button>
+                            </div>
+                        </div>
+                
+            </div>
+            
+            <div class="panel-body">
+                <div class="row">
+                    <table class="table">
+                        <thead>
+                            <tr>
+                                <th ng-click="sortBy('Name')" class="cusrorpointor">Name</th>
+                                <th ng-click="sortBy('Phone')" class="cusrorpointor">Phone</th>
+                                <th ng-click="sortBy('Email')" class="cusrorpointor">Email</th>
+                                <th ng-click="sortBy('DOB')" class="cusrorpointor">Date of birth</th>
+                                <th ng-click="sortBy('CityName')" class="cusrorpointor"> City Name</th>
+                                <th >Action</th>
+                            </tr>
+
+                        </thead>
+                        <tbody>
+                            <tr ng-repeat="c in Customers | filter:filterCustomers| orderBy:propertyName:reverse">
+                                <td>{{c.Name}}</td>
+                                <td>{{c.Phone}}</td>
+                                <td>{{c.Email}}</td>
+                                <td>{{c.DOB| date : d/M/yy}}</td>
+                                <td>{{c.CityName}}</td>
+                                <td><i class="fa fa-edit" style="color:green; cursor:pointer" ng-click="openCustomerEditPopup(c.ID)">EDIT</i> |<i class="fa fa-edit" style="color:red; cursor:pointer" ng-click="deleteCustomer(c.ID)">DELETE</i></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <div class="panel-footer">
+                <div class="pull-right">
+                    <custom-pager page="{{page}}" pages-count="{{pagesCount}}" total-count="{{totalCount}}" search-func="search(page)"></custom-pager>
+                </div>
+            </div>
+        </div> 
+    </section>
+
+</div> 
+  

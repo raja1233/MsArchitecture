@@ -1,0 +1,56 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html ng-app="Park">
+<head>
+    <meta charset="utf-8" /> 
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Park</title>
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+    <meta property="og:title" content="Park" />
+    <meta property="og:type" content="website" />
+    <meta property="og:description" content="Here at Park.com, we find you the parking spot you deserve for the price you deserve. Parking in your hands. Park.com uses state of the art technology to personalize your parking needs. We offer discounted hourly and monthly parking deals and early bird specials We get it, finding parking can be a headache. So Park.com makes it easy. It’s simple Book, Pay, Park." />
+    <meta property="og:image" content="http://108.168.203.227/PMSDEVNEW/images/logo.png" />
+    <meta name="twitter:title" content="Park">
+    <meta name="twitter:description" content="Here at Park.com, we find you the parking spot you deserve for the price you deserve. Parking in your hands. Park.com uses state of the art technology to personalize your parking needs. We offer discounted hourly and monthly parking deals and early bird specials We get it, finding parking can be a headache. So Park.com makes it easy. It’s simple Book, Pay, Park.">
+    <meta name="twitter:image:src" content="http://108.168.203.227/PMSDEVNEW/images/logo.png">
+    <meta itemprop="name" content="Park">
+    <meta itemprop="description" content="Here at Park.com, we find you the parking spot you deserve for the price you deserve. Parking in your hands. Park.com uses state of the art technology to personalize your parking needs. We offer discounted hourly and monthly parking deals and early bird specials We get it, finding parking can be a headache. So Park.com makes it easy. It’s simple Book, Pay, Park.">
+    <meta itemprop="image" content="http://108.168.203.227/PMSDEVNEW/images/logo.png">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.0/css/font-awesome.min.css" /> 
+    <link rel="stylesheet" href="//kendo.cdn.telerik.com/2016.2.504/styles/kendo.common-material.min.css" />
+    @Styles.Render("~/Content/css/commoncss")
+    @*kendo start*@
+    @*@Styles.Render("~/Content/kendocss") 
+    @Styles.Render("~/Content/kendothemecss")*@ 
+    
+    @*<link rel="stylesheet" href="//kendo.cdn.telerik.com/2016.2.607/styles/kendo.common-material.min.css" />*@
+    <link rel="stylesheet" href="//kendo.cdn.telerik.com/2016.2.504/styles/kendo.material.min.css" /> 
+    @*kendo end*@
+    @Scripts.Render("~/bundles/modernizr")
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+      <![endif]-->
+
+</head>
+<body ng-controller="rootCtrl" class="hold-transition skin-green sidebar-mini">  
+    <div id="main">
+        <div class="{{ pageClass }}" ng-view ng-cloak></div>
+    </div> 
+    @Scripts.Render("~/bundles/vendors")
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDRdXxzSPzqHqI5bBWnTmPDT-xQXbgWDhE&libraries=places"></script>
+    <script src="https://googlemaps.github.io/js-rich-marker/src/richmarker.js"></script>
+    <script src="http://kendo.cdn.telerik.com/2016.2.504/js/kendo.all.min.js"></script>
+    @*@Scripts.Render("~/bundles/googlemap")
+        @Scripts.Render("~/bundles/kendo")*@
+    @Scripts.Render("~/bundles/spa")
+
+</body>
+</html>

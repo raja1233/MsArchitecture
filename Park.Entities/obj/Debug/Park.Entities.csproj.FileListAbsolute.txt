@@ -1,0 +1,94 @@
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Entities\bin\Debug\Park.Entities.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Entities\bin\Debug\Park.Entities.pdb
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Entities\bin\Debug\EntityFramework.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Entities\bin\Debug\EntityFramework.SqlServer.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Entities\bin\Debug\GeoJSON4EntityFramework.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Entities\bin\Debug\Microsoft.CSharp.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Entities\bin\Debug\Newtonsoft.Json.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Entities\bin\Debug\System.ComponentModel.DataAnnotations.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Entities\bin\Debug\System.Data.DataSetExtensions.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Entities\bin\Debug\System.Data.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Entities\bin\Debug\System.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Entities\bin\Debug\System.Xml.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Entities\bin\Debug\System.Xml.Linq.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Entities\bin\Debug\EntityFramework.xml
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Entities\bin\Debug\EntityFramework.SqlServer.xml
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Entities\bin\Debug\Newtonsoft.Json.xml
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Entities\obj\Debug\Park.Entities.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Entities\obj\Debug\Park.Entities.pdb
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Entities\obj\Debug\Park.Entities.csprojResolveAssemblyReference.cache
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Entities\bin\Debug\Park.Entities.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Entities\bin\Debug\Park.Entities.pdb
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Entities\bin\Debug\EntityFramework.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Entities\bin\Debug\EntityFramework.SqlServer.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Entities\bin\Debug\GeoJSON4EntityFramework.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Entities\bin\Debug\Microsoft.CSharp.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Entities\bin\Debug\Newtonsoft.Json.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Entities\bin\Debug\System.ComponentModel.DataAnnotations.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Entities\bin\Debug\System.Data.DataSetExtensions.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Entities\bin\Debug\System.Data.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Entities\bin\Debug\System.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Entities\bin\Debug\System.Xml.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Entities\bin\Debug\System.Xml.Linq.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Entities\bin\Debug\EntityFramework.xml
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Entities\bin\Debug\EntityFramework.SqlServer.xml
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Entities\bin\Debug\Newtonsoft.Json.xml
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Entities\obj\Debug\Park.Entities.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Entities\obj\Debug\Park.Entities.pdb
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Entities\bin\Debug\Park.Entities.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Entities\bin\Debug\Park.Entities.pdb
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Entities\bin\Debug\EntityFramework.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Entities\bin\Debug\EntityFramework.SqlServer.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Entities\bin\Debug\GeoJSON4EntityFramework.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Entities\bin\Debug\Microsoft.CSharp.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Entities\bin\Debug\Newtonsoft.Json.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Entities\bin\Debug\System.ComponentModel.DataAnnotations.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Entities\bin\Debug\System.Data.DataSetExtensions.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Entities\bin\Debug\System.Data.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Entities\bin\Debug\System.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Entities\bin\Debug\System.Xml.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Entities\bin\Debug\System.Xml.Linq.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Entities\bin\Debug\EntityFramework.xml
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Entities\bin\Debug\EntityFramework.SqlServer.xml
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Entities\bin\Debug\Newtonsoft.Json.xml
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Entities\obj\Debug\Park.Entities.csprojResolveAssemblyReference.cache
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Entities\obj\Debug\Park.Entities.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Entities\obj\Debug\Park.Entities.pdb
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Entities\bin\Debug\Park.Entities.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Entities\bin\Debug\Park.Entities.pdb
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Entities\bin\Debug\EntityFramework.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Entities\bin\Debug\EntityFramework.SqlServer.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Entities\bin\Debug\GeoJSON4EntityFramework.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Entities\bin\Debug\Microsoft.CSharp.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Entities\bin\Debug\Newtonsoft.Json.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Entities\bin\Debug\System.ComponentModel.DataAnnotations.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Entities\bin\Debug\System.Data.DataSetExtensions.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Entities\bin\Debug\System.Data.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Entities\bin\Debug\System.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Entities\bin\Debug\System.Xml.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Entities\bin\Debug\System.Xml.Linq.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Entities\bin\Debug\EntityFramework.xml
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Entities\bin\Debug\EntityFramework.SqlServer.xml
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Entities\bin\Debug\Newtonsoft.Json.xml
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Entities\obj\Debug\Park.Entities.csprojResolveAssemblyReference.cache
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Entities\obj\Debug\Park.Entities.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Entities\obj\Debug\Park.Entities.pdb
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Entities\bin\Debug\Park.Entities.dll
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Entities\bin\Debug\Park.Entities.pdb
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Entities\bin\Debug\EntityFramework.dll
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Entities\bin\Debug\EntityFramework.SqlServer.dll
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Entities\bin\Debug\GeoJSON4EntityFramework.dll
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Entities\bin\Debug\Microsoft.CSharp.dll
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Entities\bin\Debug\Newtonsoft.Json.dll
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Entities\bin\Debug\System.ComponentModel.DataAnnotations.dll
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Entities\bin\Debug\System.Data.DataSetExtensions.dll
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Entities\bin\Debug\System.Data.dll
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Entities\bin\Debug\System.dll
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Entities\bin\Debug\System.Xml.dll
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Entities\bin\Debug\System.Xml.Linq.dll
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Entities\bin\Debug\EntityFramework.xml
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Entities\bin\Debug\EntityFramework.SqlServer.xml
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Entities\bin\Debug\Newtonsoft.Json.xml
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Entities\obj\Debug\Park.Entities.csprojResolveAssemblyReference.cache
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Entities\obj\Debug\Park.Entities.dll
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Entities\obj\Debug\Park.Entities.pdb

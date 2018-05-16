@@ -1,0 +1,209 @@
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Services\bin\Debug\Park.Services.dll.config
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Services\bin\Debug\Park.Services.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Services\bin\Debug\Park.Services.pdb
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Services\bin\Debug\AutoMapper.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Services\bin\Debug\Braintree-2.61.0.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Services\bin\Debug\HtmlAgilityPack.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Services\bin\Debug\Microsoft.CSharp.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Services\bin\Debug\Newtonsoft.Json.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Services\bin\Debug\Park.Data.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Services\bin\Debug\Park.Entities.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Services\bin\Debug\RestSharp.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Services\bin\Debug\System.Data.DataSetExtensions.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Services\bin\Debug\System.Data.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Services\bin\Debug\System.Data.Entity.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Services\bin\Debug\System.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Services\bin\Debug\System.ServiceModel.DomainServices.EntityFramework.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Services\bin\Debug\System.Xml.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Services\bin\Debug\System.Xml.Linq.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Services\bin\Debug\Twilio.Api.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Services\bin\Debug\EntityFramework.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Services\bin\Debug\Park.Data.pdb
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Services\bin\Debug\Park.Entities.pdb
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Services\bin\Debug\HtmlAgilityPack.pdb
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Services\bin\Debug\HtmlAgilityPack.xml
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Services\bin\Debug\Newtonsoft.Json.xml
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Services\bin\Debug\System.ServiceModel.DomainServices.EntityFramework.xml
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Services\bin\Debug\Twilio.Api.pdb
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Services\bin\Debug\Twilio.Api.xml
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Services\bin\Debug\EntityFramework.xml
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Services\bin\Debug\de\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Services\bin\Debug\es\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Services\bin\Debug\fr\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Services\bin\Debug\it\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Services\bin\Debug\ja\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Services\bin\Debug\ko\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Services\bin\Debug\ru\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Services\bin\Debug\zh-Hans\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Services\bin\Debug\zh-Hant\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Services\obj\Debug\Park.Services.csprojResolveAssemblyReference.cache
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Services\obj\Debug\Park.Services.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\Park\Park.Services\obj\Debug\Park.Services.pdb
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Services\obj\Debug\Park.Services.csprojResolveAssemblyReference.cache
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Services\bin\Debug\Park.Services.dll.config
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Services\bin\Debug\Park.Services.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Services\bin\Debug\Park.Services.pdb
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Services\bin\Debug\AutoMapper.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Services\bin\Debug\Braintree-2.61.0.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Services\bin\Debug\HtmlAgilityPack.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Services\bin\Debug\Microsoft.CSharp.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Services\bin\Debug\Newtonsoft.Json.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Services\bin\Debug\Park.Data.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Services\bin\Debug\Park.Entities.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Services\bin\Debug\Park.ViewModel.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Services\bin\Debug\RestSharp.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Services\bin\Debug\System.Data.DataSetExtensions.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Services\bin\Debug\System.Data.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Services\bin\Debug\System.Data.Entity.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Services\bin\Debug\System.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Services\bin\Debug\System.ServiceModel.DomainServices.EntityFramework.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Services\bin\Debug\System.Xml.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Services\bin\Debug\System.Xml.Linq.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Services\bin\Debug\Twilio.Api.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Services\bin\Debug\EntityFramework.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Services\bin\Debug\Park.ViewModel.pdb
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Services\bin\Debug\Park.Data.pdb
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Services\bin\Debug\Park.Entities.pdb
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Services\bin\Debug\HtmlAgilityPack.pdb
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Services\bin\Debug\HtmlAgilityPack.xml
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Services\bin\Debug\Newtonsoft.Json.xml
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Services\bin\Debug\System.ServiceModel.DomainServices.EntityFramework.xml
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Services\bin\Debug\Twilio.Api.pdb
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Services\bin\Debug\Twilio.Api.xml
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Services\bin\Debug\EntityFramework.xml
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Services\bin\Debug\de\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Services\bin\Debug\es\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Services\bin\Debug\fr\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Services\bin\Debug\it\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Services\bin\Debug\ja\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Services\bin\Debug\ko\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Services\bin\Debug\ru\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Services\bin\Debug\zh-Hans\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Services\bin\Debug\zh-Hant\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Services\obj\Debug\Park.Services.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\Park.Services\obj\Debug\Park.Services.pdb
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Services\bin\Debug\Park.Services.dll.config
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Services\bin\Debug\Park.Services.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Services\bin\Debug\Park.Services.pdb
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Services\bin\Debug\AutoMapper.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Services\bin\Debug\Braintree-2.61.0.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Services\bin\Debug\HtmlAgilityPack.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Services\bin\Debug\Microsoft.CSharp.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Services\bin\Debug\Newtonsoft.Json.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Services\bin\Debug\Park.Data.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Services\bin\Debug\Park.Entities.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Services\bin\Debug\Park.ViewModel.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Services\bin\Debug\RestSharp.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Services\bin\Debug\System.Data.DataSetExtensions.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Services\bin\Debug\System.Data.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Services\bin\Debug\System.Data.Entity.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Services\bin\Debug\System.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Services\bin\Debug\System.ServiceModel.DomainServices.EntityFramework.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Services\bin\Debug\System.Xml.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Services\bin\Debug\System.Xml.Linq.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Services\bin\Debug\Twilio.Api.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Services\bin\Debug\EntityFramework.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Services\bin\Debug\Park.ViewModel.pdb
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Services\bin\Debug\Park.Data.pdb
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Services\bin\Debug\Park.Entities.pdb
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Services\bin\Debug\HtmlAgilityPack.pdb
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Services\bin\Debug\HtmlAgilityPack.xml
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Services\bin\Debug\Newtonsoft.Json.xml
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Services\bin\Debug\System.ServiceModel.DomainServices.EntityFramework.xml
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Services\bin\Debug\Twilio.Api.pdb
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Services\bin\Debug\Twilio.Api.xml
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Services\bin\Debug\EntityFramework.xml
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Services\bin\Debug\de\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Services\bin\Debug\es\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Services\bin\Debug\fr\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Services\bin\Debug\it\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Services\bin\Debug\ja\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Services\bin\Debug\ko\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Services\bin\Debug\ru\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Services\bin\Debug\zh-Hans\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Services\bin\Debug\zh-Hant\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Services\obj\Debug\Park.Services.csprojResolveAssemblyReference.cache
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Services\obj\Debug\Park.Services.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\old park project\Park.Services\obj\Debug\Park.Services.pdb
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\Park.Services.dll.config
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\Park.Services.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\Park.Services.pdb
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\AutoMapper.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\Braintree-2.61.0.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\HtmlAgilityPack.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\Microsoft.CSharp.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\Newtonsoft.Json.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\Park.Data.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\Park.Entities.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\Park.ViewModel.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\System.Data.DataSetExtensions.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\System.Data.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\System.Data.Entity.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\System.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\System.Xml.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\System.Xml.Linq.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\Twilio.Api.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\EntityFramework.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\Park.ViewModel.pdb
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\Park.Data.pdb
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\Park.Entities.pdb
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\HtmlAgilityPack.pdb
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\HtmlAgilityPack.xml
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\Newtonsoft.Json.xml
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\System.ServiceModel.DomainServices.EntityFramework.xml
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\Twilio.Api.pdb
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\Twilio.Api.xml
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\EntityFramework.xml
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\de\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\es\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\fr\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\it\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\ja\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\ko\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\ru\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\zh-Hans\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\zh-Hant\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Services\obj\Debug\Park.Services.csprojResolveAssemblyReference.cache
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Services\obj\Debug\Park.Services.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\Park.Services\obj\Debug\Park.Services.pdb
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\Park.Services.dll.config
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\Park.Services.dll
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\Park.Services.pdb
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\AutoMapper.dll
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\Braintree-2.61.0.dll
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\HtmlAgilityPack.dll
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\Microsoft.CSharp.dll
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\Newtonsoft.Json.dll
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\Park.Data.dll
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\Park.Entities.dll
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\Park.ViewModel.dll
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\System.Data.DataSetExtensions.dll
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\System.Data.dll
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\System.Data.Entity.dll
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\System.dll
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\System.Xml.dll
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\System.Xml.Linq.dll
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\Twilio.Api.dll
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\EntityFramework.dll
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\Park.ViewModel.pdb
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\Park.Data.pdb
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\Park.Entities.pdb
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\HtmlAgilityPack.pdb
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\HtmlAgilityPack.xml
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\Newtonsoft.Json.xml
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\System.ServiceModel.DomainServices.EntityFramework.xml
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\Twilio.Api.pdb
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\Twilio.Api.xml
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\EntityFramework.xml
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\de\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\es\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\fr\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\it\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\ja\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\ko\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\ru\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\zh-Hans\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Services\bin\Debug\zh-Hant\System.ServiceModel.DomainServices.EntityFramework.resources.dll
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Services\obj\Debug\Park.Services.csprojResolveAssemblyReference.cache
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Services\obj\Debug\Park.Services.dll
+E:\Day USer\Nicklesh Bisht\official\Sampleprojects\Angular_Architecture_MS\Angular Architecture\Park.Services\obj\Debug\Park.Services.pdb

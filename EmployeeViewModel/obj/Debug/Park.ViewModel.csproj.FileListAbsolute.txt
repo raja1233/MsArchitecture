@@ -1,0 +1,14 @@
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\EmployeeViewModel\obj\Debug\Park.ViewModel.csprojResolveAssemblyReference.cache
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\EmployeeViewModel\bin\Debug\Park.ViewModel.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\EmployeeViewModel\bin\Debug\Park.ViewModel.pdb
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\EmployeeViewModel\bin\Debug\Park.Entities.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\EmployeeViewModel\bin\Debug\Park.Entities.pdb
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\EmployeeViewModel\obj\Debug\Park.ViewModel.dll
+D:\DayUsers\rajukumar\Official\Projects\Old\Project\AngularAssignment\EmployeeViewModel\obj\Debug\Park.ViewModel.pdb
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\EmployeeViewModel\bin\Debug\Park.ViewModel.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\EmployeeViewModel\bin\Debug\Park.ViewModel.pdb
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\EmployeeViewModel\bin\Debug\Park.Entities.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\EmployeeViewModel\bin\Debug\Park.Entities.pdb
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\EmployeeViewModel\obj\Debug\Park.ViewModel.csprojResolveAssemblyReference.cache
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\EmployeeViewModel\obj\Debug\Park.ViewModel.dll
+E:\Day USer\Nicklesh Bisht\personal\Angular_Architecture_MS\Angular Architecture\EmployeeViewModel\obj\Debug\Park.ViewModel.pdb
